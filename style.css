@@ -1,0 +1,20 @@
+body {
+    background: cross-fade(hsla(0, 53%, 53%, 0.739), rgb(147, 173, 147));
+    border: 50px ridge rgba(101,175, 194, .6);
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+button {
+    width: 20%;
+    height: 5rem;
+    font-size: 160%;
+    
+}
+
+
+
+
